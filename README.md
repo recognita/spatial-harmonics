@@ -12,7 +12,7 @@ The baseline model's Spatial Attention layer maps EEG/MEG sensor geometry into t
 
 Three model variants are compared:
 
-1. **Baseline** — the original Défossez et al. spatial-attention formulation (`--variant baseline`).
+1. **Baseline** — the original spatial-attention formulation (`--variant baseline`).
 2. **+ Spatial harmonics** — 3D spatial attention via vector spherical harmonics (`--variant harmonics_base`).
 3. **+ Reduced parameters** — harmonics combined with a smaller Subject Block and an empirically-chosen optimum of **4 temporal convolutions** in the Subject Layer (`--variant harmonics_270`, the configuration behind the reported 40% reduction).
 
