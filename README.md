@@ -1,6 +1,6 @@
 # spatial-harmonics
 
-Spherical-harmonics-based neural layer that improves the 3D spatial-attention block used in speech representation models — a supplement to Défossez et al., *Decoding speech perception from non-invasive brain recordings*, Nature Machine Intelligence (2023).
+Spherical-harmonics-based neural layer that improves the 3D spatial-attention block used in speech representation models.
 
 Presented at the Student Spring University Forum 2025.
 
