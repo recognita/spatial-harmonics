@@ -1,0 +1,8 @@
+torch
+numpy
+pandas
+einops
+scipy
+mne
+tqdm
+# comet-ml   # optional, only needed with --log-to-comet
